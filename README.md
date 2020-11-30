@@ -1,4 +1,4 @@
-.<div align=center><img src="https://github.com/want0629/want0629/blob/master/heart.gif" width="880" height="400" /></div>
+.<div align=center><img src="https://github.com/want0629/want0629/blob/master/heart.gif" width="880" height="450" /></div>
 
 <!--
 **want0629/want0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
